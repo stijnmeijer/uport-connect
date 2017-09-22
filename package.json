@@ -105,7 +105,7 @@
     "qr-image": "^3.1.0",
     "qs": "^6.2.1",
     "request": "^2.75.0",
-    "uport": "^0.4.2",
+    "uport": "git+https://github.com/uport-project/uport-js#feature/ch188/send-encrypted-push-notifications",
     "web3": "^0.18.2"
   },
   "devDependencies": {
